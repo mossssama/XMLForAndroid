@@ -1,1 +1,1 @@
-Any of them to be included to res/drawable
+# **To use any shape only put it's xml file in res/drawable**
