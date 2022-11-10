@@ -1,0 +1,1 @@
+Any of them to be included to res/drawable
